@@ -71,4 +71,11 @@ My app load this images from firebase cloud storage.
 
 This is my firebase storage.
 
+## 4. Thank You for teaching
+
+### I felt that...
+
+I learned a lot about app programming and actually got a lot of fun in making apps.
+Thank you for your thoughtful teaching.
+
 
