@@ -19,9 +19,9 @@ While searching for Naver APIs, the search API was the most useful, so I chose t
 
 
 This is first screen of my application.
-A first edittext window is for getting input from user.
-A first button, bottom of edittext window is for showing result of news category.
-A second button, bottom of edittext window is for showing result of blog category.
+A first input window is for getting input from user.
+A first button, bottom of input window is for showing result of news category.
+A second button, bottom of input window is for showing result of blog category.
 
 ### When click button
 
@@ -37,10 +37,10 @@ Left image shows results of news and right image shows results of blog.
 ### Error Handling - No input
 
 <p align="center">
-<img width="300" src="https://user-images.githubusercontent.com/50102137/85148822-8af91780-b28b-11ea-9410-c949f9545aea.png">
+<img width="300" src="https://user-images.githubusercontent.com/50102137/85152690-4623af80-b290-11ea-88d0-c05cd589d2c8.png">
 </p>
 
-When user clicked the button without putting any input in edittext window, the app show toast message that alert to put any input in application.
+When user clicked the button without putting any input in input window, the app show toast message that alert to put any input in application.
 
 ### When click result object
 
@@ -70,6 +70,17 @@ My app load this images from firebase cloud storage.
 </p>
 
 This is my firebase storage.
+
+## 4. References
+[ListView 사용법 완벽 정리 (SimpleAdapter, CustomAdapter) - 유혁의 엉터리 개발](https://yoo-hyeok.tistory.com/53)
+[Android에서 파일 다운로드](https://firebase.google.com/docs/storage/android/download-files?hl=ko)
+
+
+### I felt that...
+
+I learned a lot about app programming and actually got a lot of fun in making apps.
+Thank you for your thoughtful teaching.
+
 
 ## 4. Thank You for teaching
 
