@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "458192169724",
+    "firebase_url": "https://personal-project-a1831.firebaseio.com",
+    "project_id": "personal-project-a1831",
+    "storage_bucket": "personal-project-a1831.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458192169724:android:52c8e3bab09b8c800ac579",
+        "android_client_info": {
+          "package_name": "com.example.kakao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458192169724-ctac5nnmb6f93kblvgmgnnd47pipo715.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEi0kAbmsDUr-PiGaZaZpwSSbu-BKOcbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458192169724-ctac5nnmb6f93kblvgmgnnd47pipo715.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458192169724:android:c47437d294ff8b7e0ac579",
+        "android_client_info": {
+          "package_name": "com.example.voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458192169724-ctac5nnmb6f93kblvgmgnnd47pipo715.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEi0kAbmsDUr-PiGaZaZpwSSbu-BKOcbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458192169724-ctac5nnmb6f93kblvgmgnnd47pipo715.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
