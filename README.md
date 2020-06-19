@@ -77,12 +77,6 @@ This is my firebase storage.
 [Android에서 파일 다운로드](https://firebase.google.com/docs/storage/android/download-files?hl=ko)
 
 
-### I felt that...
-
-I learned a lot about app programming and actually got a lot of fun in making apps.
-Thank you for your thoughtful teaching.
-
-
 ## 4. Thank You for teaching
 
 ### I felt that...
