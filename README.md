@@ -63,3 +63,12 @@ When User clicked the result object in left image, the app redirect to page like
 </p>
 
 Do you remember this banner images?
+My app load this images from firebase cloud storage.
+
+<p align="center">
+<img width="300" src="https://user-images.githubusercontent.com/50102137/85149966-e7a90200-b28c-11ea-9d7d-97c0c60bf523.png">
+</p>
+
+This is my firebase storage.
+
+
